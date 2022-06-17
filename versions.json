@@ -1,0 +1,13 @@
+[
+  {
+    "minOSVersion": "beta1.0",
+    "Version": 1.0,
+    "Relase": "beta",
+    "FullKitName": "ArtOS Antelope Canyon Development Kit", 
+    "ShortName": "Antelope Canyon Dev Kit",
+    "icon": "",
+    "uiBaseKit":"WinForms/ArtOS",
+    "uiKit":"1.0",
+    "compatiblesAPIs": []
+  }
+]
