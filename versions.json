@@ -5,7 +5,7 @@
     "Relase": "beta",
     "FullKitName": "ArtOS Antelope Canyon Development Kit", 
     "ShortName": "Antelope Canyon Dev Kit",
-    "icon": "",
+    "icon": "https://github.com/ArtOS-Developper/ArtOS-Devs-Kits/raw/main/BetaSDKLogo.png",
     "uiBaseKit":"WinForms/ArtOS",
     "uiKit":"1.0",
     "compatiblesAPIs": []
